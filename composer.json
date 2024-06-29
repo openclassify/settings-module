@@ -1,7 +1,7 @@
 {
-    "name": "anomaly/settings-module",
+    "name": "visiosoft/settings-module",
     "type": "streams-addon",
-    "description": "System settings management for the Streams Platform.",
+    "description": "Forked Anomalylabs | System settings management for the Streams Platform.",
     "keywords": [
         "settings"
     ],
